@@ -1,0 +1,6 @@
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\bin\Debug\LongestName.exe.config
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\bin\Debug\LongestName.exe
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\bin\Debug\LongestName.pdb
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\obj\Debug\LongestName.csprojResolveAssemblyReference.cache
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\obj\Debug\LongestName.exe
+C:\Users\abukalau\Desktop\SchoolLesson4\LongestName\obj\Debug\LongestName.pdb
